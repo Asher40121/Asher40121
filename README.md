@@ -1,5 +1,4 @@
-Hi, I’m Phil Albritton
--product manager with 20+ years of experience developing physical and digital products—from toys and games to digital assessments and customer-facing tools.
+Product manager with 20+ years of experience developing physical and digital products — from toys and games to digital assessments and customer-facing tools.
 
 - Customer discovery: Expert product sense, customer interviews to guide product decisions.
 - Product ownership: Led strategy, roadmaps, development, and launches.
